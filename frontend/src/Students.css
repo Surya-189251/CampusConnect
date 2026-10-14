@@ -1,0 +1,13 @@
+.student-manager {display:grid;gap:24px;min-width:0}
+.student-manager .panel {min-width:0}
+.student-manager p {line-height:1.6;margin:12px 0}
+.student-fields {border:0;padding:0;margin:18px 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.student-fields .auth-field {margin:0;min-width:0}
+.student-actions {display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin:18px 0}
+.student-actions .auth-field {margin:0}
+.import-controls {border:0;padding:0;min-width:0;margin-top:20px}
+.multiline {white-space:pre-wrap;max-height:350px;overflow:auto}
+.credentials-box {border:2px solid #4f46e5;border-radius:12px;background:#f4f3ff;padding:20px;margin-top:20px}
+.staff-workspace {max-width:1500px;margin:auto;padding:28px}
+.student-manager button:disabled {opacity:.6;cursor:not-allowed}
+@media(max-width:500px){.staff-workspace{padding:12px}.student-fields{grid-template-columns:1fr}}

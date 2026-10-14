@@ -1,0 +1,59 @@
+Razorpay TEST checkout setup — CampusConnect
+
+1. Open your Razorpay dashboard and select TEST mode.
+Open Account & Settings > API Keys (under Website and app settings), then
+generate TEST keys. Keep the secret private. Use the official guide if the
+dashboard labels differ:
+https://razorpay.com/docs/payments/dashboard/account-settings/api-keys/
+
+2. In VS Code open your EXISTING backend\.env file.
+Keep every current database/auth setting. Append these three lines, replacing
+the placeholders with your actual TEST key ID and secret:
+
+RAZORPAY_COLLEGE_CODE=VIKAS
+RAZORPAY_KEY_ID=rzp_test_REPLACE_WITH_YOUR_KEY_ID
+RAZORPAY_KEY_SECRET='REPLACE_WITH_YOUR_KEY_SECRET'
+
+Replace the entire key-ID placeholder with the key ID Razorpay gives you.
+Use your college's actual code if it is not VIKAS; this must match your database.
+Only this college uses these test merchant keys. Other colleges have checkout
+disabled. Never paste the secret into frontend code or send your .env in chat.
+This release accepts only rzp_test_ keys and rejects rzp_live_ keys.
+
+3. Stop the backend with Ctrl+C and start again:
+node --watch server.js
+Refresh the student's Fees screen. Pay outstanding should become available.
+
+4. Enable automatic payment capture in your Razorpay TEST settings.
+Assign a small TEST fee, then use the student's Pay outstanding button.
+Use Razorpay's documented test payment details/mock success flow:
+https://razorpay.com/docs/payments/payment-gateway/web-integration/standard/integration-steps/
+Do not enter real card details for this test.
+
+5. After checkout, the server verifies the signature and fetches payment status,
+amount, currency and order from Razorpay. Only captured payments count as paid.
+An authorised-but-not-captured payment stays pending. Check your dashboard's
+capture setting and use Check payment status after capture.
+Success should update the balance and create exactly one TEST receipt.
+If the browser closes or the callback is lost, return to Fees and select
+Check payment status. Repeated checks must not create duplicate payments.
+
+OPTIONAL WEBHOOK (skip for your first localhost test)
+Browser verification and Check payment status work without a webhook.
+Automatic server notifications require a public HTTPS backend; Razorpay cannot
+reach your laptop's localhost URL directly. This update does not deploy it.
+For a later HTTPS test deployment, the webhook path is:
+/api/payments/razorpay/webhook
+Subscribe in TEST mode to payment.captured, order.paid and refund.processed.
+Choose a webhook secret, configure the same value in backend .env as:
+RAZORPAY_WEBHOOK_SECRET='YOUR_SEPARATE_WEBHOOK_SECRET'
+Restart the backend. This secret is separate from the API key secret.
+The endpoint validates the signature over the unmodified request body and
+re-fetches payment data before updating the ledger.
+
+Known limitation: an open order cannot be cancelled in this prototype. Reopen
+the same invoice's checkout to complete it; offline entry remains blocked until
+that order settles. Keep keys stable while test orders are outstanding.
+
+All invoices, offline records and receipts in this release are test-only.
+Do not collect real student fees with this bundle.

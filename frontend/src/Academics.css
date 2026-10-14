@@ -1,0 +1,13 @@
+.academic-stack {display:grid;gap:24px;min-width:0}
+.academic-stack .panel {min-width:0}
+.academic-stack p,.staff-workspace>p {line-height:1.6;margin:12px 0}
+.academic-tabs {display:flex;gap:10px;flex-wrap:wrap;margin:22px 0}
+.academic-stack table {width:100%;border-collapse:collapse}
+.academic-stack th,.academic-stack td {padding:14px;text-align:left;border-bottom:1px solid #e8e8f2;vertical-align:middle}
+.academic-stack th {font-size:12px;background:#f5f4fc;color:#596275}
+.academic-stack td input,.academic-stack td select {font:inherit;min-width:120px;max-width:190px;padding:10px;border:1px solid #d7dbeb;border-radius:7px;background:white;color:#20263c}
+.academic-stack td input:disabled,.academic-stack td select:disabled {background:#f6f7fb;color:#4f566b;opacity:1}
+.academic-stack select {max-width:100%}
+.academic-stack h3 {margin:20px 0 12px}
+.academic-stack .table-scroll {margin:16px 0}
+.academic-stack button:disabled {opacity:.6;cursor:not-allowed}

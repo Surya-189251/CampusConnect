@@ -1,0 +1,2 @@
+const fs=require('node:fs'),path=require('node:path'),pool=require('./db');
+(async()=>{const db=await pool.connect();try{await db.query(fs.readFileSync(path.join(__dirname,'migrations/20261014-fees.sql'),'utf8'));console.log('Test fees update applied successfully. Existing data was preserved.');}catch(e){await db.query('ROLLBACK').catch(()=>{});console.error(e.message);process.exitCode=1;}finally{db.release();await pool.end();}})().catch(e=>{console.error(e.message);process.exitCode=1;pool.end();});
