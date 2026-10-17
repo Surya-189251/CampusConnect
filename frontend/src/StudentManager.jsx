@@ -1,8 +1,9 @@
+import {API_BASE} from './api-config';
 import { useEffect, useState } from 'react';
 import readExcelFile from 'read-excel-file/browser';
 import Papa from 'papaparse';
 import './Students.css';
-const API = 'http://localhost:5000/api/students';
+const API = `${API_BASE}/students`;
 const fields = [
   ['rollNumber','Roll number',['rollnumber','rollno','roll','studentid','regno','registrationnumber']],
   ['fullName','Full name',['fullname','name','studentname']],

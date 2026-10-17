@@ -1,3 +1,4 @@
+import {API_BASE} from './api-config';
 import CollegeSelect from './CollegeSelect';
 import { useState } from "react";
 
@@ -46,7 +47,7 @@ export default function FacultySignup({ onBack }) {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/faculty-requests",
+        `${API_BASE}/faculty-requests`,
         {
           method: "POST",
           headers: {

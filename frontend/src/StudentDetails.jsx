@@ -1,0 +1,6 @@
+import {useCampus} from './campus-api';
+import Icon from './Icon';
+export default function StudentDetails({token}){
+ const {data,error,refresh}=useCampus(token,'/auth/student-profile');const p=data?.profile;
+ return <section className="panel student-profile-card"><div className="section-heading"><div><span className="eyebrow">YOUR ACCOUNT</span><h2>Student profile</h2></div><button className="button" onClick={refresh}><Icon name="refresh" size={16}/>Refresh</button></div>{error&&<p role="alert" className="auth-error">{error}</p>}{!p&&!error&&<p>Loading your profile…</p>}{p&&<><div className="profile-identity"><span className="profile-monogram">{p.full_name.split(' ').map(w=>w[0]).slice(0,2).join('')}</span><div><h3>{p.full_name}</h3><p>{p.login_id} · {p.department}</p><span className="state-pill resolved">Approved student</span></div></div><dl className="profile-detail-grid">{[['email','Email'],['mobile','Mobile'],['department','Department'],['admission_year','Admission year'],['semester','Semester'],['section','Section']].map(([key,label])=><div key={key}><dt>{label}</dt><dd>{p[key]||'Not recorded'}</dd></div>)}</dl></>}<div className="inline-note">Need a correction? Contact faculty authorised to manage student accounts, or submit a support request.</div></section>;
+}

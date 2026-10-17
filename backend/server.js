@@ -13,6 +13,10 @@ const PORT = Number(process.env.PORT) || 5000;
 
 app.disable("x-powered-by");
 
+if (process.env.RENDER === "true") {
+  app.set("trust proxy", 1);
+}
+
 app.use(
   cors({
     origin: process.env.FRONTEND_ORIGIN || "http://localhost:5173",
@@ -34,6 +38,9 @@ app.use("/api/fees", require("./fees").router);
 app.use("/api/notices", require("./notices"));
 app.use("/api/timetable", require("./timetable").router);
 app.use("/api/college-management", require("./college-management"));
+app.use("/api/dashboard", require("./dashboard"));
+app.use("/api/support", require("./support"));
+app.use("/api/ai", require("./ai-help").router);
 
 app.get("/", (req, res) => {
   res.json({
@@ -93,7 +100,7 @@ async function startServer() {
 
     console.log("PostgreSQL connected successfully.");
 
-    const server = app.listen(PORT, "127.0.0.1", () => {
+    const server = app.listen(PORT, process.env.HOST || "127.0.0.1", () => {
       console.log(`CampusConnect backend: http://localhost:${PORT}`);
     });
 

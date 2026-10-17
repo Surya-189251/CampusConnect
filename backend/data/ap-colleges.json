@@ -1,0 +1,3584 @@
+[
+  {
+    "code": "ARMN",
+    "name": "A M REDDY MEMORIAL COLL. OF PHARMACY",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ASNT",
+    "name": "A S N PHARMACY COLLEGE",
+    "place": "TENALI",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AUEWSF",
+    "name": "A U COLLEGE OF ENGG FOR WOMEN-SELF FINANCE",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AUCESF",
+    "name": "A U COLLEGE OF ENGG-SELF FINANCE VISAKHAPATNAM",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AUCE",
+    "name": "A U COLLEGE OF ENGG. VISAKHAPATNAM",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AKRP",
+    "name": "A.K.R.G. COLLEGE OF PHARMACY",
+    "place": "NALLAJERLA",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AMRN",
+    "name": "A.M.REDDY MEMORIAL COLL. OF ENGINEERING",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ABRK",
+    "name": "ABR COLLEGE OF ENGG AND TECHNOLOGY",
+    "place": "KANIGIRI",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANMB",
+    "name": "ACHARYA COLLEGE OF ENGINEERING",
+    "place": "BADVEL",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ACEE",
+    "name": "ADARSH COLLEGE OF ENGINEERING",
+    "place": "GOLLAPROLU",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ADCP",
+    "name": "ADARSHA COLL OF PHARMACY",
+    "place": "G.KOTHAPALLI",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANURSF",
+    "name": "ADI KAVI NANNAYA UNIVERSITY COLLEGE OF ENGG.-SELF FINANCE",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AKNTSF",
+    "name": "ADI KAVI NANNAYA UNIVERSITY COLLEGE OF PHARMACY-SELF FINANCE",
+    "place": "TADEPALLIGUDEM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ACEM",
+    "name": "ADITYA COLLEGE OF ENGINEERING",
+    "place": "MADANAPALLE",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ACET",
+    "name": "ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "place": "PEDDAPURAM",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ACPS",
+    "name": "ADITYA COLLEGE OF PHARMACY",
+    "place": "PEDDAPURAM",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ADIT",
+    "name": "ADITYA INSTITUTE OF TECHNOLOGY AND MGMT",
+    "place": "TEKKALI",
+    "district": "SKL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "APCS",
+    "name": "ADITYA PHARMACY COLLEGE",
+    "place": "PEDDAPURAM",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ADTPPU",
+    "name": "ADITYA UNIVERSITY",
+    "place": "SURAMPALEM",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ASIP",
+    "name": "AMRITA SAI INST. OF SCIENCE AND TECHNOLOGY",
+    "place": "PARITALA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ALTS",
+    "name": "ANANTHA LAKSHMI INST OF TECHNOLOGY AND SCI",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AECN",
+    "name": "ANDHRA ENGINEERING COLLEGE",
+    "place": "ATMAKUR N",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ALIT",
+    "name": "ANDHRA LOYOLA INSTT OF ENGG AND TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANIL",
+    "name": "ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY AND SCI",
+    "place": "BHEEMUNIPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AITSPU",
+    "name": "ANNAMACHARYA  UNIVERSITY",
+    "place": "RAJAMPETA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANCP",
+    "name": "ANNAMACHARYA COLLEGE OF PHARMACY",
+    "place": "RAJAMPETA",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AITK",
+    "name": "ANNAMACHARYA INST OF TECH AND SCI",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AITT",
+    "name": "ANNAMACHARYA INST OF TECHNOLOGYAND SCIENCES",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANUPSF",
+    "name": "ANU COLL OF PHARMACEUTICAL SCIENCES-SELF FINANCE",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "APUCPU",
+    "name": "APOLLO UNIVERSITY",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AIPS",
+    "name": "APOLLO UNIVERSITY (APOLLO INSTITUTE OF PHARAMACEUTICAL SCIENCES)",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ASKW",
+    "name": "ASHOKA WOMEN'S ENGINEERING COLLEGE",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ASKWOC",
+    "name": "ASHOKA WOMEN'S ENGINEERING COLLEGE-OFF CAMPUS",
+    "place": "CHINNATEKURU VILLAGE",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AUCP",
+    "name": "AU COLLEGE OF ENGG. SCHOOL OF PHARMACY",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AUCPSF",
+    "name": "AU COLLEGE OF ENGG.SCHOOL OF PHARMACY-SELF FINANCE",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SANK",
+    "name": "AUDHISANKARA COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "GUDUR",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AUDI",
+    "name": "AUDHISANKARA COLLEGE OF PHARMACY",
+    "place": "GUDUR",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AVEV",
+    "name": "AVANTHI INST. OF ENGINEERING AND TECHNOLOGY",
+    "place": "BHOGAPURAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AVNP",
+    "name": "AVANTHI INST. OF PHARM. SCI.",
+    "place": "BHOGAPURAM",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "AVEN",
+    "name": "AVANTHI INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "place": "NARSIPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ARTB",
+    "name": "AVANTHIS RESEARCH AND TECHNOLOGICAL ACADEMY",
+    "place": "BHOGAPURAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ASTC",
+    "name": "AVANTHIS ST THERESSA INSTITUTE OF ENGG AND TECHNOLOGY",
+    "place": "CHEEPURUPALLI",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BVCE",
+    "name": "B V CHALAMAIAH ENGINEERING COLLEGE",
+    "place": "ODALAREVU",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BAKR",
+    "name": "B.A. AND K.R. COLLEGE OF PHARMACY",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BABA",
+    "name": "BABA INST OF TECH AND SCIENCES",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BALA",
+    "name": "BALAJI COLLEGE OF PHARMACY",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BCOP",
+    "name": "BAPATLA COLLEGE OF PHARMACY",
+    "place": "BAPATLA",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BECB",
+    "name": "BAPATLA ENGINEERING COLLEGE",
+    "place": "BAPATLA",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BWEC",
+    "name": "BAPATLA WOMENS ENGG COLLEGE",
+    "place": "BAPATLA",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BCET",
+    "name": "BEHARA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BLMP",
+    "name": "BELLAMKONDA INST OF TECHNOLOGY AND SCI",
+    "place": "PODILI",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BESTPU",
+    "name": "BHARATIYA ENGG SCI. &TECH INNOVATION UNIVERSITY",
+    "place": "ANANTAPUR",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BITS",
+    "name": "BHASKAR  INSTITUTE  OF TECHNOLOGY & SCIENCE",
+    "place": "RAYACHOTY",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BIPB",
+    "name": "BHASKARA INST. OF PHARMACY",
+    "place": "BOBBILI",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BEMA",
+    "name": "BHEEMA INST OF TECHNOLOGY AND SCI",
+    "place": "ADONI",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BVRM",
+    "name": "BHIMAVARAM INST. OF ENGG. AND TECHNOLOGY",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BVTS",
+    "name": "BONAM VENKATA CHALAMAIAH INST. OF TECH AND SCI.",
+    "place": "AMALAPURAM",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BRNK",
+    "name": "BRINDAVAN INST OF TECHNOLOGY AND SCI",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BVCR",
+    "name": "BVC COLLEGE OF ENGINEERING",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BVSR",
+    "name": "BVSR ENGINEERING COLLEGE",
+    "place": "CHIMAKURTHY",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CENUPU",
+    "name": "CENTURION UNIVERSITY OF TECHNOLOGY & MANAGEMENT",
+    "place": "TEKKALI",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CHDL",
+    "name": "CHADALAWADA RAMANAMMA ENGG. COLLEGE",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CBIT",
+    "name": "CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY",
+    "place": "PALLAVOLU",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CCPM",
+    "name": "CHAITANYA COLLEGE OF PHARMACY",
+    "place": "MARKAPUR",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CEVP",
+    "name": "CHAITANYA ENGINEERING COLLEGE",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CHKN",
+    "name": "CHAITANYA INST. OF SCI. AND TECHNOLOGY",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CCPY",
+    "name": "CHALAPATHI COLLEGE OF PHARMACY",
+    "place": "MOTHADAKA",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CIET",
+    "name": "CHALAPATHI INST OF ENGG AND TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CITY",
+    "name": "CHALAPATHI INST OF TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CLPT",
+    "name": "CHALAPATHI INSTITUTE OF PHARMACEUTICAL SCI.",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CIPS",
+    "name": "CHEBROLU HANUMAIAH INST. OF PHARM SCIENCES",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "IASP",
+    "name": "CHENNUPATI INDO-AMERICAN SCHOOL OF PHARMACY",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CECC",
+    "name": "CHIRALA ENGINEERING COLLEGE",
+    "place": "CHIRALA",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CRIT",
+    "name": "CHIRANJEEVI REDDY INST OF ENGG AND TECHNOLOGY FOR WOMEN",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CAMS",
+    "name": "COLLEGE OF AGRICULTURAL ENGINEERING",
+    "place": "MADAKASIRA",
+    "district": "ATP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "BRAUSF",
+    "name": "COLLEGE OF ENGINEERING BR AMBEDKAR UNIV SELF FINANCE",
+    "place": "SRIKAKULAM",
+    "district": "SKL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CFSP",
+    "name": "COLLEGE OF FOOD SCIENCE AND TECHNOLOGY",
+    "place": "PULIVENDULA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CRKN",
+    "name": "CREATIVE EDNL. SOCIETYS COLL. OF PHARMACY",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DCRM",
+    "name": "D C R M COLLEGE OF PHARMACY",
+    "place": "INKOLLU",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVHE",
+    "name": "D M S S V H COLLEGE OF ENGINEERING",
+    "place": "MACHILIPATNAM",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DIET",
+    "name": "DADI INSTT. OF ENGINEERING AND TECHNOLOGY",
+    "place": "ANAKAPALLE",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DSIT",
+    "name": "DAMISETTY BALA SURESH INST OF TECHNOLOGY",
+    "place": "KAVALI",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DHAN",
+    "name": "DHANEKULA INST OF ENGG TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DNRE",
+    "name": "DNR COLLEGE OF ENGG AND TECH",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DLBC",
+    "name": "DR L BULLAYYA COLL EGE OF ENGINEERING",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PREC",
+    "name": "DR PAUL RAJS ENGINEERING COLLEGE",
+    "place": "YETAPAKA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SGIT",
+    "name": "DR SAMUEL GEORGE INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "place": "MARKAPUR",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ARCP",
+    "name": "DR. ANJIREDDY COLLEGE OF PHARMACY",
+    "place": "PIDUGURALLA",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SGIP",
+    "name": "DR. SAMUEL GEORGE INSTITUTE OF PHARM. SCI.S",
+    "place": "MARKAPUR",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CSNP",
+    "name": "DR.C.S.N.INSTITUTE OF PHARMACY",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KVSP",
+    "name": "DR.K V SUBBA REDDY INST OF PHARMACY",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KVSR",
+    "name": "DR.K.V.SUBBA REDDY INST. OF TECHNOLOGY",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "YSRA",
+    "name": "DR.YSR ARCHITECTURE AND FINE ARTS UNIVERSITY",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANCUSF",
+    "name": "DR.YSR COLLEGE OF ENGINEERING & TECHNOLOGY-SELF FINANCE",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MICT",
+    "name": "DVR AND DR.HS MIC COLLEGE OF TECHNOLOGY",
+    "place": "KANCHIKACHERLA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CABP",
+    "name": "Dr. N T R COLLEGE OF AGRICULTURAL ENGINEERING",
+    "place": "BAPATLA",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CFSB",
+    "name": "Dr. N T R COLLEGE OF FOOD SCIENCE AND TECHNOLOGY",
+    "place": "BAPATLA",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ELRU",
+    "name": "ELURU COLLEGE OF ENGG AND TECHNOLOGY",
+    "place": "ELURU",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "EMNL",
+    "name": "EMMANUAL COLLEGE OF PHARMACY",
+    "place": "BHIMUNIPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ESWR",
+    "name": "ESWAR COLLEGE OF ENGINEERING",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GMRI",
+    "name": "G M R INSTITUTE OF TECHNOLOGY",
+    "place": "RAJAM",
+    "district": "SKL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GPRE",
+    "name": "G PULLA REDDY ENGINEERING. COLLEGE",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GVPT",
+    "name": "G V P COLLEGE FOR DEGREE AND PG COURSES",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GVRS",
+    "name": "G V R AND S COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PCEK",
+    "name": "G.PULLAIAH COLL. OF ENGG. AND TECHNOLOGY",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GATE",
+    "name": "GATES INSTITUTE OF TECHNOLOGY",
+    "place": "GOOTY",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GVPW",
+    "name": "GAYATHRI VIDYA PARISHAD COLL OF ENGG FOR WOMEN",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GVPE",
+    "name": "GAYATHRI VIDYA PARISHAD COLL. OF ENGINEERING",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GTNN",
+    "name": "GEETHANJALI INST OF SCIENCE AND TECHNOLOGY",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GIET",
+    "name": "GIET ENGINEERING COLLEGE",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GGURPU",
+    "name": "GODAVARI GLOBAL UNIVERSITY",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GOKP",
+    "name": "GOKUL COLLEGE OF PHARMACY",
+    "place": "BOBBILI",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GGIB",
+    "name": "GOKUL GROUP OF INSTITUTIONS",
+    "place": "BOBBILI",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GKCS",
+    "name": "GOKULA KRISHNA COLLEGE OF ENGINEERING",
+    "place": "SULLURPET",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GKPS",
+    "name": "GOKULA KRISHNA COLLEGE OF PHARMACY",
+    "place": "SULLURPET",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GVIC",
+    "name": "GOLDEN VALLEY INTEGRATED CAMPUS",
+    "place": "MADANAPALLE",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GITS",
+    "name": "GONNA INST OF INFO TECHNOLOGY SCIENCES",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GTMW",
+    "name": "GOUTHAMI INST OF TECHNOLOGY MGMT FOR WOMEN",
+    "place": "PRODDATUR",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GRAP",
+    "name": "GREEN ROYAL ACADEMY OF PHARM EDN SCI",
+    "place": "KOYYALAGUDEM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "HITE",
+    "name": "HELAPURI INST OF TECH AND SCIENCE",
+    "place": "ELURU",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "HIND",
+    "name": "HINDU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "HICP",
+    "name": "HINDU COLLEGE OF PHARMACY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "IDEL",
+    "name": "IDEAL INSTITUTE OF TECHNOLOGY",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "IITM",
+    "name": "INDIRA INST OF TECHNOLOGY SCI",
+    "place": "MARKAPUR",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPMS",
+    "name": "INST. OF PHARM. TECH. S P MAHILA VISWA VIDYALAYAM",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ISTSOC",
+    "name": "INTERNATIONAL SCHOOL OF TECH AND SCI -OFF CAMPUS",
+    "place": "JANGAREDDYGUDEM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ISTS",
+    "name": "INTERNATIONAL SCHOOL OF TECH AND SCI FOR WOMEN",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JPSN",
+    "name": "JAGAN'S INSTITUTE OF PHARMACEUTICAL SCIENCES",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JAGN",
+    "name": "JAGANS COLLEGE OF PHARMACY",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNVPSF",
+    "name": "JNTU-GV COLLEGE OF PHARMACEUTICAL SCIENCES-SELF FINANCE",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTP",
+    "name": "JNTUA COLLEGE OF ENGG PULIVENDULA",
+    "place": "PULIVENDULA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTA",
+    "name": "JNTUA COLLEGE OF ENGG. ANANTAPURAMU",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTC",
+    "name": "JNTUA COLLEGE OF ENGINEERING. KALIKIRI",
+    "place": "KALIKIRI",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "OTRISF",
+    "name": "JNTUA-OIL TECHNOLOGICAL RESEARCH INSTITUTE-SELF FINANCE",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTK",
+    "name": "JNTUK COLLEGE OF ENGG. KAKINADA",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTKSF",
+    "name": "JNTUK COLLEGE OF ENGG. KAKINADA-SELF FINANCE",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTKSS",
+    "name": "JNTUK COLLEGE OF ENGG. KAKINADA-SELF SUPPORTING",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTN",
+    "name": "JNTUK COLLEGE OF ENGINEERING NARSARAOPETA",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNTV",
+    "name": "JNTUK COLLEGE OF ENGINEERING VIZIANAGARAM",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JITS",
+    "name": "JOGAIAH INST OF TECHNOLOGY AND SCI",
+    "place": "PALAKOLE",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KCRP",
+    "name": "K C REDDY COLLEGE OF PHARMACY",
+    "place": "MEDIKONDURU",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KGRP",
+    "name": "K G R L COLLEGE OF PHARMACY",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KSRM",
+    "name": "K S R M COLLEGE OF ENGINEERING",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VRSP",
+    "name": "K V S R SIDDHARTHA COLLEGE OF PHARMACEUTICAL SCI.S",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KJRP",
+    "name": "K.J.R.COLLEGE OF PHARMACY",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KIEW",
+    "name": "KAKINADA INST OF ENGG AND TECHNOLOGY FOR WOMEN",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KIEK",
+    "name": "KAKINADA INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KIET",
+    "name": "KAKINADA INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KTSP",
+    "name": "KAKINADA INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "place": "DIVILI",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KISR",
+    "name": "KAKINADA INSTITUTE OF TECHNOLOGY SCIENCES",
+    "place": "RAMACHANDRAPURAM",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KHIT",
+    "name": "KALLAM HARANADH REDDY INST OF TECH",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KLMW",
+    "name": "KANDULA LAKSHUMMA MEMORIAL COLLEGE OF ENGG FOR WOMEN",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KORM",
+    "name": "KANDULA OBUL REDDY MEMORIAL COLL. OF ENGG.",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KCPO",
+    "name": "KEERTHI COLLEGE OF PHARMACY",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KITG",
+    "name": "KITS  AKSHAR INSTITUTE OF TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KCPW",
+    "name": "KITS COLLEGE OF PHARMACY FOR WOMEN",
+    "place": "DIVILI",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KITS",
+    "name": "KKR AND KSR INST OF TECHNOLOGY AND SCI",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KMMT",
+    "name": "KMM INST OF TECHNOLOGY AND SCIENCE",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KCPT",
+    "name": "KORINGA COLLEGE OF PHARMACY",
+    "place": "TALLAREVU",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KCIT",
+    "name": "KRISHNA CHAITANYA INST OF TECHNOLOGY AND SCIENCES",
+    "place": "MARKAPUR",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KTPT",
+    "name": "KRISHNA TEJA PHARMACY COLLEGE",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KRUESF",
+    "name": "KRISHNA UNIVERSITY COLLEGE OF ENGG AND TECHNOLOGY-SELF FINAN",
+    "place": "MACHILIPATNAM",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KUCPSF",
+    "name": "KU COLLEGE OF PHARMACEUTICAL SCIS& RESEARCH-SELF FINANCE",
+    "place": "MACHILIPATNAM",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "KUPM",
+    "name": "KUPPAM ENGINEERING COLLEGE",
+    "place": "KUPPAM",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LBCE",
+    "name": "LAKIREDDY BALIREDDY COLLEGE OF ENGINEERING",
+    "place": "MYLAVARAM",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LIET",
+    "name": "LENDI INST OF ENGG AND TECHNOLOGY",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LENO",
+    "name": "LENORA COLLEGE OF ENGINEERING",
+    "place": "RAMPACHODAVARAM",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LIMT",
+    "name": "LINGAYAS INST OF MGMT AND TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LOYL",
+    "name": "LOYOLA INSTITUTE OF TECHNOLOGY AND MGMT",
+    "place": "SATTENAPALLY",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LYDP",
+    "name": "LYDIA COLLEGE OF PHARMACY",
+    "place": "RAVULAPALEM",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MAMW",
+    "name": "M A M WOMEN'S ENGINEERING COLLEGE",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MVRG",
+    "name": "M V G R COLLEGE OF ENGINEERNG",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MAMN",
+    "name": "M.A.M COLLEGE OF PHARMACY",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MVRS",
+    "name": "M.V.R.COLL OF ENGINEERING AND TECHNOLOGY",
+    "place": "PARITALA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MITS",
+    "name": "MADANAPALLY INSTITUTE OF TECHNOLOGY AND SCI",
+    "place": "MADANAPALLE",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MHRJ",
+    "name": "MAHARAJAHS COLLEGE PHARMACY",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MCPM",
+    "name": "MAHATHI COLLEGE OF PHARMACY",
+    "place": "NEAR MADANAPALLE RLY. STN",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MLCP",
+    "name": "MALINENI LAKSHMAIAH COLLEGE OF PHARMACY",
+    "place": "SINGARAYAKONDA",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MLEW",
+    "name": "MALINENI LAKSHMAIAH WOMENS ENGG. COLLEGE",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MPES",
+    "name": "MALINENI PERUMALLU PHARMACY COLLEGE",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MSEW",
+    "name": "MALINENI SUSEELAMMA WOMENS ENGG COLLEGE",
+    "place": "SINGARAYAKONDA",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MIET",
+    "name": "MANDAVA INSTITUTE OF ENGG AND TECHNOLOGY",
+    "place": "JAGGAIAHPETA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MRCL",
+    "name": "MIRACLE EDNL SOC GROUP OF INSTNS",
+    "place": "BHOGAPURAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MJRT",
+    "name": "MJR COLLEGE OF ENGG AND TECHNOLOGY",
+    "place": "PILER",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MBUTPU",
+    "name": "MOHAN BABU UNIVERSITY",
+    "place": "RANGAMPETA",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MBUSPS",
+    "name": "MOHAN BABU UNIVERSITY ( M B SCHOOL OF PHARMACEUTICAL SCIENCES)",
+    "place": "RANGAMPETA",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MTIE",
+    "name": "MOTHER THERESA INST OF ENGG AND TECH",
+    "place": "PALAMNER",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MIPR",
+    "name": "MOTHER THERESA INST OF PHARMACEUTICAL EDUCATION AND RESEARCH",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MRNP",
+    "name": "MRR COLLEGE OF PHARMACY NANDIGAMA",
+    "place": "NANDIGAMA",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NRIP",
+    "name": "N R I COLLEGE OF PHARMACY",
+    "place": "AGIRIPALLY",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NSCP",
+    "name": "N S COLLEGE OF PHARMACY",
+    "place": "MARKAPUR",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NSRE",
+    "name": "N S RAJU INSTITUTE OF ENGG AND TECHNOLOGY",
+    "place": "DAKAMARRI VILLAGE",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NVRT",
+    "name": "N.V.R.COLLEGE OF ENGG TECHNOLOGY",
+    "place": "TENALI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NSRT",
+    "name": "NADIMPALLI SATYANARAYANA RAJU INSTITUTE OF TECHNOLOGY",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SIPS",
+    "name": "NALANDA INST OF PHARM.SCI.",
+    "place": "SATTENAPALLY",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NARN",
+    "name": "NARAYANA ENGINEERING COLLEGE",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NRNG",
+    "name": "NARAYANA ENGINEERING COLLEGE",
+    "place": "GUDUR",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NRNP",
+    "name": "NARAYANA PHARMACY COLLEGE",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NSPP",
+    "name": "NARSARAOPET INSTT. OF PHARM.SCI.",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NSPE",
+    "name": "NARSARAOPETA ENGINEERING COLLEGE",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NBKR",
+    "name": "NBKR INSTITUTE OF SCI. AND TECHNOLOGY",
+    "place": "VIDYANAGAR",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NEWT",
+    "name": "NEWTON INSTITUTE OF ENGINEERING",
+    "place": "MACHERLA",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NEWS",
+    "name": "NEWTONS INST OF SCI AND TECH",
+    "place": "MACHERLA",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NMRP",
+    "name": "NIMRA COLLEGE OF PHARMACY",
+    "place": "JUPUDI",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NRML",
+    "name": "NIRMALA COLL. OF PHARM",
+    "place": "MANGALAGIRI",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NICP",
+    "name": "NIRMALA COLLEGE OF PHARMACY",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NVAV",
+    "name": "NOVA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "place": "IBRAHIMPATNAM",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NCPV",
+    "name": "NOVA COLLEGE OF PHARM.EDN. AND RESEARCH",
+    "place": "JUPUDI",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NOVP",
+    "name": "NOVA COLLEGE OF PHARMACY",
+    "place": "VEGAVARAM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NRIA",
+    "name": "NRI INSTITUTE OF TECHNOLOGY",
+    "place": "AGIRIPALLY",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NRIT",
+    "name": "NRI INSTT OF TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "NKGP",
+    "name": "NRK AND KSR GUPTA COLLEGE OF PHARMACY",
+    "place": "TENALI",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VITK",
+    "name": "P B R VISVODAYA INSTITUTE OF TECHNOLOGY AND SCI.",
+    "place": "KAVALI",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PRMP",
+    "name": "P. RAMIREDDY MEMORIAL COLLEGE OF PHARMACY",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PVKK",
+    "name": "P.V.K.K. INSTITUTE OF TECHNOLOGY",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PVKKOC",
+    "name": "P.V.K.K. INSTITUTE OF TECHNOLOGY-OFF CAMPUS",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PACE",
+    "name": "PACE INSTITUTE OF TECHNOLOGY AND SCIENCES",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PPDV",
+    "name": "PALADUGU PARVATHI DEVI COLLEGE OF ENGG AND TECH",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PSCV",
+    "name": "POTTI SRIRAMULU COLLEGE OF ENGG AND TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PBTP",
+    "name": "PRABHAT INST OF PHARMACY",
+    "place": "NANDYAL",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PRAG",
+    "name": "PRAGATI ENGINEERING COLLEGE",
+    "place": "PEDDAPURAM",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PCPK",
+    "name": "PRAKASAM COLLEGE OF PHARMACY",
+    "place": "KOYYALAGUDEM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PKSK",
+    "name": "PRAKASAM ENGINEERING COLLEGE",
+    "place": "KANDKUR",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PPSV",
+    "name": "PRASAD V POTLURI SIDDHARTHA INSTT OF TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PRIK",
+    "name": "PRIYADARSHINI COLL OF ENGG. AND TECHNOLOGY",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PIPR",
+    "name": "PRIYADARSHINI INST OF PHARMACEUTICAL EDUCATION AND RESEARCH",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PIIT",
+    "name": "PRIYADARSHINI INST OF TECH AND MGMT",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PINN",
+    "name": "PRIYADARSHINI INST OF TECHNOLOGY",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PITW",
+    "name": "PRIYADARSHINI INST. OF TECH AND SCIENCES FOR WOMEN",
+    "place": "TENALI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PITT",
+    "name": "PRIYADARSHINI INST. OF TECHNOLOGY AND SCIENCES",
+    "place": "TENALI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PYDE",
+    "name": "PYDAH COLL OF ENGINEERING",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "PYDP",
+    "name": "PYDAH COLLEGE OF PHARMACY",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "QISE",
+    "name": "QIS COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "QISP",
+    "name": "QIS COLLEGE OF PHARMACY",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RVIT",
+    "name": "R V INSTITUTE OF TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RVJC",
+    "name": "R V R AND J C COLLEGE OF ENGINEERING",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RKCE",
+    "name": "R.K.COLLEGE OF ENGINEERING",
+    "place": "IBRAHIMPATNAM",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RIPA",
+    "name": "RAGHAVENDRA INST. OF PHARM. EDUCATION",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RCPV",
+    "name": "RAGHU COLLEGE OF PHARMACY",
+    "place": "BHIMUNIPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RAGU",
+    "name": "RAGHU ENGINEERING COLLEGE",
+    "place": "BHEEMUNIPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RIET",
+    "name": "RAJAMAHENDRI INST OF ENGG AND TECHNOLOGY",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RGCP",
+    "name": "RAJIV GANDHI COLLEGE OF PHARMACY",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RGIT",
+    "name": "RAJIV GANDHI MEMORIAL COLLEGE OF ENGG. AND TECH.",
+    "place": "NANDYAL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RCEE",
+    "name": "RAMACHANDRA COLLEGE OF ENGINEERING",
+    "place": "ELURU",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RSRN",
+    "name": "RAMIREDDY SUBBA RAMIREDDY ENGG COLLEGE",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RAOS",
+    "name": "RAOS COLLEGE OF PHARMACY",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RESN",
+    "name": "RATHNAM INST OF PHARM",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RAVW",
+    "name": "RAVINDRA COLLEGE OF ENGG FOR WOMEN",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RUCESF",
+    "name": "RAYALASEEMA UNIVERSITY COLLEGE OF ENGG-SELF FINANCE",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RGAN",
+    "name": "RISE KRISHNA SAI GANDHI GROUP OF INSTITUTIONS",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RPRA",
+    "name": "RISE KRISHNA SAI PRAKASAM GROUP OF INSTITUTIONS",
+    "place": "ONGOLE",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SKCP",
+    "name": "S K C COLLEGE OF PHARMACY",
+    "place": "MADANAPALLE",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRKI",
+    "name": "S R K INST. OF TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRKR",
+    "name": "S R K R ENGINEERING COLLEGE",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRMUPU",
+    "name": "S R M UNIVERSITY AP",
+    "place": "AMARAVATHI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SSNP",
+    "name": "S S AND N COLLEGE OF PHARMACY",
+    "place": "NARASARAOPET",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVUCSS",
+    "name": "S V U COLLEGE OF ENGG. -SELF SUPPORTING-TIRUPATHI",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVUC",
+    "name": "S V U COLLEGE OF ENGG. TIRUPATHI",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVUPSF",
+    "name": "S V UNIVERSITY COLLEGE OF SCIENCES-SELF FINANCE",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVSP",
+    "name": "S V. SCHOOL OF PHARMACY",
+    "place": "PUTTUR",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVEP",
+    "name": "S.V COLLEGE OF ENGINEERING",
+    "place": "PUTTUR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SCON",
+    "name": "SAASTRA COLLEGE OF PHARM.EDN AND RES.",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPSW",
+    "name": "SAASTRA COLLEGE OF PHARMACEUTICAL SCIENCES FOR WOMEN",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPRC",
+    "name": "SAASTRA COLLEGE OF PHARMACY AND RESEARCH CENTER.",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SFAP",
+    "name": "SAFA COLLEGE OF PHARMACY",
+    "place": "KURNOOL",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRIP",
+    "name": "SAI RAJESWARI INSTITUTE OF TECHNOLOGY",
+    "place": "PRODDATUR",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRPS",
+    "name": "SANKAR REDDY INST OF PHARM SCI",
+    "place": "BESTAVARIPETA",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SAVE",
+    "name": "SANKETHIKA VIDYA PARISHAD ENGINEERING COLLEGE",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SAVEOC",
+    "name": "SANKETHIKA VIDYA PARISHAD ENGINEERING COLLEGE-OFF CAMPUS",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SSSE",
+    "name": "SANSKRITHI SCHOOL OF ENGINEERING",
+    "place": "PUTAPARTHI",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRCN",
+    "name": "SANTHIRAM COLLEGE OF PHARMACY",
+    "place": "NANDYAL",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SREC",
+    "name": "SANTHIRAM ENGINEERING COLLEGE",
+    "place": "NANDYAL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SCPM",
+    "name": "SARADA COLLEGE OF PHARMACY",
+    "place": "MEDARAMETLA",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRPN",
+    "name": "SASHIKANTH REDDY COLL OF PHARM",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SASI",
+    "name": "SASI INSTITUTE OF TECHNOLOGY AND ENGINEERING",
+    "place": "TADEPALLIGUDEM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SGVP",
+    "name": "SATYA INST OF TECHNOLOGY AND MGMT",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPMUSF",
+    "name": "SCHOOL OF ENGG. TECH. SPMVV - SELF FINANCE",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNKFSF",
+    "name": "SCHOOL OF FOOD TECHNOLOGY JNTUK KAKINADA-SELF FINANCE",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNKPSF",
+    "name": "SCHOOL OF PHARMACEUTICAL SCI. AND TECH.-SELF FINANCE",
+    "place": "KAKINADA",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SESP",
+    "name": "SESHACHALA COLLEGE OF PHARMACY",
+    "place": "PUTTUR",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "GDLV",
+    "name": "SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE",
+    "place": "GUDLAVALLERU",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SHCP",
+    "name": "SEVEN HILLS COLLEGE OF PHARMACY",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SCPK",
+    "name": "SHARADA COLLEGE OF PHARMACEUTICAL SCI.S",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VISW",
+    "name": "SHRI VISHNU ENGG. COLLEGE FOR WOMEN",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SEAT",
+    "name": "SIDDARTHA EDNL ACADEMY GRP OF INSTNS",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SDTN",
+    "name": "SIDDHARTH INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "place": "PUTTUR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SIMH",
+    "name": "SIMHADRI EDNL SOC GRP OF INSTNS",
+    "place": "SABBAVARAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SIMS",
+    "name": "SIMS COLLEGE OF PHARMACY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CRRE",
+    "name": "SIR C R R COLLEGE OF ENGINEERING",
+    "place": "ELURU",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CRRP",
+    "name": "SIR C.R.REDDY COLLEGE OF PHARMACY",
+    "place": "ELURU",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CVRT",
+    "name": "SIR C.V RAMAN INST OF TECHNOLOGY SCIENCES",
+    "place": "TADIPATRI",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SKUPSF",
+    "name": "SKU COLL OF PHARMCEUTICAL SCIENCE-SELF FINANCE",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VETS",
+    "name": "SR VENKATESWARA COLL OF ENGINEERING",
+    "place": "SRIKAKULAM",
+    "district": "SKL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRET",
+    "name": "SREE RAMA ENGINEERING COLLEGE",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VHNI",
+    "name": "SREE VAHINI INSTT OF SCIENCE AND TECHNOLOGY",
+    "place": "TIRUVURU",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVCN",
+    "name": "SREE VENKATESWARA COLL OF ENGG",
+    "place": "NORTH RAJU PALEM",
+    "district": "NLR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVPN",
+    "name": "SREE VENKATESWARA COLLEGE OF PHARMACY",
+    "place": "NORTH RAJU PALEM",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVPC",
+    "name": "SREE VENKATESWARA PHARMACY COLLEGE",
+    "place": "NORTH RAJU PALEM",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SATS",
+    "name": "SRI ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "place": "RAJAMPETA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "DJRC",
+    "name": "SRI CHAITANYA -DJR COLL OF ENGG AND TECH",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SKUASF",
+    "name": "SRI KRISHNADEVARAYA UNIV.COLL.OF ENG.- SELF FINANCE",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "LNCP",
+    "name": "SRI LAKSHMI NARASIMHA COLLEGE OF PHARMACY",
+    "place": "PALLURU",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SLVP",
+    "name": "SRI LAKSHMI VENKATESWARA INST OF PHARM SCI",
+    "place": "PRODDATUR",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MPLG",
+    "name": "SRI MITTAPALLI COLLEGE OF ENGINEERING",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "MPPC",
+    "name": "SRI MITTAPALLI PHARMACY COLLEGE",
+    "place": "",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPPR",
+    "name": "SRI PADMAVATHI INSTITUTE OF PHARMACEUTICAL EDN AND RESEARCH",
+    "place": "TIRUCHANOOR",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPSP",
+    "name": "SRI PADMAVATHI SCHOOL OF PHARMACY",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "RIPH",
+    "name": "SRI RAGHAVENDRA INSTTITUE OF PHARMACY",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SAIP",
+    "name": "SRI SAI COLLEGE OF PHARMACY",
+    "place": "Gajapathinagaram",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRSR",
+    "name": "SRI SAI INSTITUTE OF TECHNOLOGY. AND SCI.",
+    "place": "RAYCHOTI",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SIEN",
+    "name": "SRI SARATHI INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "place": "NUZVID",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SPCN",
+    "name": "SRI SIDDHAARTHA PHARM. COLLEGE",
+    "place": "NUZVID",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SSCE",
+    "name": "SRI SIVANI COLLEGE OF ENGINEERING",
+    "place": "SRIKAKULAM",
+    "district": "SKL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SSCP",
+    "name": "SRI SIVANI COLLEGE OF PHARMACY",
+    "place": "SRIKAKULAM",
+    "district": "SKL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SUNL",
+    "name": "SRI SUNFLOWER COLLEGE OF ENGG AND TECHNOLOGY",
+    "place": "LANKAPALLI",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VANI",
+    "name": "SRI VANI SCHOOL OF PHARMACY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVAP",
+    "name": "SRI VASAVI COLLEGE OF PHARMACY",
+    "place": "ADDANKI",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSVT",
+    "name": "SRI VASAVI ENGINEERING COLLEGE",
+    "place": "TADEPALLIGUDEM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSVP",
+    "name": "SRI VASAVI INST. OF PHARM. SCI.",
+    "place": "TADEPALLIGUDEM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVET",
+    "name": "SRI VASAVI INSTT OF ENGINEERING AND TECHNOLOGY",
+    "place": "PEDANA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVPP",
+    "name": "SRI VENKATESA PERUMAL COLLEGE OF ENGG. AND TECH",
+    "place": "PUTTUR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVCE",
+    "name": "SRI VENKATESWARA COLL OF ENGINEERING",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVCT",
+    "name": "SRI VENKATESWARA COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVCK",
+    "name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVCP",
+    "name": "SRI VENKATESWARA COLLEGE OF PHARMACY",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VNKS",
+    "name": "SRI VENKATESWARA COLLEGE OF PHARMACY",
+    "place": "SRIKAKULAM",
+    "district": "SKL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVIT",
+    "name": "SRI VENKATESWARA INST OF TECHNOLOGY",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVIK",
+    "name": "SRI VENKATESWARA INST. OF SCIENCE AND TECHNOLOGY",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SVPH",
+    "name": "SRI VENKATESWARA PHARMACY COLLEGE",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SCPB",
+    "name": "SRI VISHNU COLLEGE OF PHARMACY",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SCPV",
+    "name": "SRINIVASA COLLEGE OF PHARMACY",
+    "place": "Pusapatirega",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRIN",
+    "name": "SRINIVASA INST OF ENGG AND TECHNOLOGY",
+    "place": "CHEYYERU",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SIPP",
+    "name": "SRINIVASA INST OF PHARM SCI",
+    "place": "PRODDATUR",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRTS",
+    "name": "SRINIVASA INST OF TECHNOLOGY  AND SCIENCE",
+    "place": "KADAPA",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SSCC",
+    "name": "SRINIVASA INSTITUTE OF TECHNOLOGY AND MANG STUDIES",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRIT",
+    "name": "SRINIVASA RAMANUJAN INST OF TECHNOLOGY",
+    "place": "ANANTAPURAMU",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SRPV",
+    "name": "SRINIVASARAO COLLEGE OF PHARMACY",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "XAVP",
+    "name": "ST XAVIER INST OF PHARMACY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANSN",
+    "name": "ST. ANNS COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "CHIRALA",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JONY",
+    "name": "ST. JOHNS COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "YEMMIGANOOR",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SMCP",
+    "name": "ST. MARYS COLL. PHARM SURAMPALEM",
+    "place": "PEDDAPURAM",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ANNP",
+    "name": "ST.ANNS COLLEGE OF PHARAMACY",
+    "place": "CHIRALA",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SAPV",
+    "name": "ST.ANNS COLLEGE OF PHARAMACY",
+    "place": "VIZIANAGARAM",
+    "district": "VZM",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "JNYP",
+    "name": "ST.JOHNS COLLEGE OF PHARM SCI",
+    "place": "YEMMIGANOOR",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SMPC",
+    "name": "ST.MARYS COLLEGE OF PHARMACY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SUNP",
+    "name": "SUN INST OF PHARM EDN AND RESEARCH",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "ASVR",
+    "name": "SVR ENGINEERING COLLEGE",
+    "place": "NANDYAL",
+    "district": "KNL",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CVST",
+    "name": "SVVU COLLEGE OF DAIRY TECHNOLOGY",
+    "place": "TIRUPATHI",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SWRN",
+    "name": "SWARNANDHRA COLL. OF ENGG AND TECHNOLOGY",
+    "place": "NARSAPURAM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "SCPN",
+    "name": "SWATHI COLLEGE OF PHARMACY",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "TECH",
+    "name": "TADIPATRI ENGG COLLEGE",
+    "place": "TADIPATRI",
+    "district": "ATP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "THRI",
+    "name": "THRINAI COLLEGE OF PHARMACY",
+    "place": "BANDAPALLI",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "TMLN",
+    "name": "TIRUMALA ENGINEERING COLLEGE",
+    "place": "NARSARAOPET",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "UNIV",
+    "name": "UNIVERSAL COLLEGE OF ENGG AND TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "URCE",
+    "name": "USHA RAMA COLL OF ENGG AND TECHNOLOGY",
+    "place": "TELAPROLU",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VJCP",
+    "name": "V JS COLLEGE OF PHARMACY",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSMR",
+    "name": "V.S.M COLLEGE OF ENGINEERING",
+    "place": "RAMACHANDRAPURAM",
+    "district": "EG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VDPN",
+    "name": "VAAGDEVI COLLEGE OF PHARMACY &RESEARCH CENTER",
+    "place": "NELLORE",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VITS",
+    "name": "VAAGDEVI INSTITUTE OF TECHNOLOGY. AND SCI.",
+    "place": "PRODDATUR",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VCPG",
+    "name": "VAGDEVI COLLEGE OF PHARMACY",
+    "place": "GURAZALA",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VVIP",
+    "name": "VALLABHANENI VENKATADRI INST OF PHARM SCIENCES",
+    "place": "GUDLAVALLERU",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VRIT",
+    "name": "VARAPRASAD REDDY INST OF TECHNOLOGY",
+    "place": "SATTENAPALLY",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSPC",
+    "name": "VASAVI COLLEGE OF PHARMACY",
+    "place": "CUMBUM",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSPP",
+    "name": "VASAVI INST OF PHARM SCIENCES",
+    "place": "BHAKARAPET RLY STN",
+    "district": "KDP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VVIT",
+    "name": "VASIREDDY VENKATADRI INST. OF TECHNOLOGY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VCPB",
+    "name": "VEDA COLLEGE OF PHARMACY",
+    "place": "ALLAGADDA",
+    "district": "KNL",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VEDA",
+    "name": "VEDA COLLEGE OF PHARMACY",
+    "place": "ADDANKI POLAVARAM",
+    "district": "PKS",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VNRC",
+    "name": "VELAGA NAGESWARA RAO COLL OF ENGINEERING",
+    "place": "PONNUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VEMU",
+    "name": "VEMU INSTITUTE OF TECHNOLOGY",
+    "place": "P.KOTHAKOTA",
+    "district": "CTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VICG",
+    "name": "VICTORIA COLLEGE OF PHARMACY",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VIPV",
+    "name": "VIGNAN INST.OF PHARM.",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VPCV",
+    "name": "VIGNAN PHARMACY COLLEGE",
+    "place": "VADLAMUDI",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VIVP",
+    "name": "VIGNANS INSTITUTE OF INFORMATION TECHNOLOGY",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VIEW",
+    "name": "VIGNANS INSTT OF ENGINEERING FOR WOMEN",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VLIT",
+    "name": "VIGNANS LARA INST. OF TECHNOLOGY AND SCI",
+    "place": "VADLAMUDI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VNIW",
+    "name": "VIGNANS NIRULA INST OF TECH. AND SCI FOR WOMEN",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VCPM",
+    "name": "VIJAYA COLLEGE OF PHARMACY",
+    "place": "MUDINEPALLI",
+    "district": "WG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VIPW",
+    "name": "VIJAYA INST OF PHARM SCI FOR WOMEN",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VITW",
+    "name": "VIJAYA INST. OF TECHNOLOGY FOR WOMEN",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VJAM",
+    "name": "VIJAYAM INSTITUTE OF TECHNOLOGY",
+    "place": "CHITTOOR",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VIKS",
+    "name": "VIKAS COLL. OF PHARMACY",
+    "place": "VISSANNAPETA",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VCTN",
+    "name": "VIKAS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "place": "VIJAYAWADA",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VGTN",
+    "name": "VIKAS GROUP OF INSTITUTIONS",
+    "place": "VIJAYAWADA RURAL",
+    "district": "KRI",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VKSR",
+    "name": "VIKAS INST. OF PHARM.SCI.",
+    "place": "RAJAHMUNDRY",
+    "district": "EG",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSPT",
+    "name": "VISAKHA INST OF ENGG AND TECHNOLOGY",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VITB",
+    "name": "VISHNU GRP OF INSTNS - VISHNU INST OF TECHNOLOGY",
+    "place": "BHIMAVARAM",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VBCP",
+    "name": "VISWA BHARATHI COLLEGE OF PHARMACEUTICAL SCI.S",
+    "place": "GUNTUR",
+    "district": "GTR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VISM",
+    "name": "VISWAM ENGINEERING COLLEGE",
+    "place": "MADANAPALLE",
+    "district": "CTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VNIP",
+    "name": "VISWANATHA INST OF PHARM SCI",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VITAPU",
+    "name": "VIT-AP UNIVERSITY",
+    "place": "AMARAVATHI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VITAPUMT",
+    "name": "VIT-AP UNIVERSITY-5 YEAR INTEGRATED MTECH",
+    "place": "AMARAVATHI",
+    "district": "GTR",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VVGV",
+    "name": "VKR VNB AND AGK ENGINEERING COLLEGE",
+    "place": "GUDIVADA",
+    "district": "KRI",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "CCVY",
+    "name": "VRS AND YRN COLLEGE OF ENGG. AND TECHNOLOGY",
+    "place": "CHIRALA",
+    "district": "PKS",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "VSUPSF",
+    "name": "VSU COLLEGE OF PHARMACEUTICAL SCIENCES",
+    "place": "KAVALI",
+    "district": "NLR",
+    "source": "https://eapcet-sche.aptonline.in/EAPCETAGR/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "WSTM",
+    "name": "WELLFARE INST OF SCIENCE TECH AND MGMT",
+    "place": "PINAGADI",
+    "district": "VSP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "WISE",
+    "name": "WEST GODAVARI INSTT OF SCIENCE AND ENGINEERING",
+    "place": "NALLAJERLA",
+    "district": "WG",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "YLMV",
+    "name": "YELAMARTY B. PHARMACY COLLEGE",
+    "place": "VISAKHAPATNAM",
+    "district": "VSP",
+    "source": "https://eapcet-sche.aptonline.in/EAPCET/instProfile",
+    "sourcePeriod": "AP counselling directory; admission year not stated on profile page",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "code": "YGVU",
+    "name": "YGVU YSR ENGINEERING COLLEGE",
+    "place": "PRODDATUR",
+    "district": "KDP",
+    "source": "https://apsche.ap.gov.in/Pdf/APEAMCET2024LASTRANKDETAILSNONSW.XLS",
+    "sourcePeriod": "AP EAPCET 2024 published list",
+    "checkedOn": "2026-10-15"
+  }
+]

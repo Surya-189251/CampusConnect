@@ -1,5 +1,6 @@
+import {API_BASE} from './api-config';
 export async function academicRequest(token,path,{method='GET',body,signal}={}) {
- const response=await fetch(`http://localhost:5000/api/academics${path}`,{
+ const response=await fetch(`${API_BASE}/academics${path}`,{
   method,signal,headers:{Authorization:`Bearer ${token}`,...(body?{'Content-Type':'application/json'}:{})},
   ...(body?{body:JSON.stringify(body)}:{}),
  });

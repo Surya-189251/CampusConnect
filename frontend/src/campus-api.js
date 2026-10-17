@@ -1,6 +1,7 @@
+import {API_BASE} from './api-config';
 import {useEffect,useState} from 'react';
 export async function campusRequest(token,path,options={}){
- const response=await fetch('http://localhost:5000/api'+path,{...options,headers:{Authorization:`Bearer ${token}`,'Content-Type':'application/json'},...(options.body?{body:JSON.stringify(options.body)}:{})});
+ const response=await fetch(`${API_BASE}`+path,{...options,headers:{Authorization:`Bearer ${token}`,'Content-Type':'application/json'},...(options.body?{body:JSON.stringify(options.body)}:{})});
  const data=await response.json();if(!response.ok)throw new Error(data.message||'The request failed.');return data;
 }
 export function useCampus(token,path){

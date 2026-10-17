@@ -1,6 +1,7 @@
+import {API_BASE} from './api-config';
 import { useEffect, useState } from "react";
 
-const API_URL = "http://localhost:5000/api/admin/faculty-requests";
+const API_URL = `${API_BASE}/admin/faculty-requests`;
 
 export default function AdminFaculty({ token }) {
   const [requests, setRequests] = useState([]);

@@ -32,8 +32,8 @@ if (
 }
 
 const collegeResult = await pool.query(
-  `SELECT id FROM colleges
-   WHERE code = $1 AND is_active = TRUE`,
+  `SELECT c.id FROM colleges c
+   WHERE c.code = $1 AND c.is_active = TRUE AND EXISTS (SELECT 1 FROM users u WHERE u.college_id=c.id AND u.role='admin' AND u.status='approved')`,
   [body.collegeCode.trim().toUpperCase()]
 );
 

@@ -1,3 +1,5 @@
+import ThemeToggle from './ThemeToggle';
+import {API_BASE} from './api-config';
 import CollegeSelect from './CollegeSelect';
 import StudentProfile from "./StudentProfile";
 import FacultyDashboard from "./FacultyDashboard";
@@ -18,7 +20,7 @@ function clearSavedToken() {
   try { sessionStorage.removeItem(SESSION_KEY); } catch { /* Storage may be disabled. */ }
 }
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = `${API_BASE}`;
 
 export default function App() {
   const [changingPassword,setChangingPassword]=useState(false);
@@ -177,56 +179,10 @@ export default function App() {
   );
 }
   if (session) {
-    return (
-      <>
-        <div
-          className={`session-banner ${
-            (session.user.role !== "admin" || session.user.mustChangePassword || changingPassword) ? "session-banner-full" : ""
-      }`}
-    >
-          <div>
-            <strong>{session.user.fullName}</strong>
-            <span>
-              {session.user.loginId} · {session.user.role} · {session.user.collegeName}
-            </span>
-          </div>
-
-          <div className="session-actions">{!session.user.mustChangePassword&&<button className="auth-button secondary" onClick={()=>setChangingPassword(true)}>Change password</button>}<button
-            className="auth-button secondary"
-            onClick={() => { setChangingPassword(false); handleLogout(); }}
-            disabled={busy}
-          >
-            {busy ? "Please wait…" : "Log out"}
-          </button></div>
-        </div>
-
-        {error && (
-          <p className="session-error" role="alert">
-            {error}
-          </p>
-        )}
-
-        {session.user.mustChangePassword || changingPassword ? (
-          <ChangePassword token={session.token} requiredChange={session.user.mustChangePassword} onCancel={() => setChangingPassword(false)} onComplete={() => { setChangingPassword(false); clearSavedToken(); setSession(null); setPassword(''); setError('Password updated. Sign in with your new password.'); }} />
-        ) : session.user.role === "student" ? (
-          <StudentProfile token={session.token} />
-        ) : session.user.role === "faculty" ? (
-          <FacultyDashboard token={session.token} user={session.user} />
-        ) : session.user.role === "admin" ? (
-          <Dashboard token={session.token} />
-        ) : (
-          <main className="account-placeholder">
-            <h1>Welcome, {session.user.fullName}</h1>
-            <p>
-              {session.user.role === "student"
-                ? "Your personal academic records and fee-payment screen will be added next."
-                : "Your academic tools and assigned classes will be added next."}
-            </p>
-            <p>Your account is approved and you are signed in.</p>
-          </main>
-        )}
-      </>
-    );
+    const onPasswordComplete=()=>{setChangingPassword(false);clearSavedToken();setSession(null);setPassword('');setError('Password updated. Sign in with your new password.');};
+    if(session.user.mustChangePassword||changingPassword)return <ChangePassword token={session.token} requiredChange={session.user.mustChangePassword} onCancel={()=>setChangingPassword(false)} onComplete={onPasswordComplete}/>;
+    const props={token:session.token,user:session.user,busy,error,onLogout:handleLogout,onPasswordChange:()=>setChangingPassword(true)};
+    return session.user.role==='admin'?<Dashboard {...props}/>:session.user.role==='faculty'?<FacultyDashboard {...props}/>:<StudentProfile {...props}/>;
   }
 
   const idLabel =
@@ -234,10 +190,11 @@ export default function App() {
       ? "Roll number"
       : role === "faculty"
         ? "Faculty ID"
-        : "Administrator ID";
+        : "Admin ID or email";
 
   return (
-    <main className="auth-page">
+    <main className="auth-page login-layout"><ThemeToggle className="login-theme"/>
+      <section className="login-story"><div className="login-wordmark"><span>CC</span>CampusConnect.</div><div className="login-story-copy"><span className="eyebrow">YOUR CAMPUS, CONNECTED</span><h2>One campus.<br/>Endless possibilities.</h2><p>From the first class to your next big idea. Keep your learning, your people and your college within reach.</p><div className="login-feature-list"><span>Academics that stay organised</span><span>A community that stays connected</span><span>A little AI help along the way</span></div></div><div className="login-story-footer">Made for students. Built for a better college day.</div></section>
       <section className="auth-card" aria-labelledby="login-heading">
         <div className="auth-logo" aria-hidden="true">
           CC
@@ -292,7 +249,7 @@ export default function App() {
               autoComplete="username"
               autoCapitalize="none"
               spellCheck={false}
-              maxLength={50}
+              maxLength={role === "admin" ? 254 : 50}
               disabled={busy}
               required
             />
@@ -344,7 +301,7 @@ export default function App() {
           {role === "faculty"
             ? "Faculty access requires administrator approval. New faculty members can request access using the link above."
             : role === "student"
-              ? "Use the student account provided by your college administrator."
+              ? "Use the student account provided by authorised faculty at your college."
               : "Administrator access is restricted to approved accounts."}
         </p>
       </section>

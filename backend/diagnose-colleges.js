@@ -1,0 +1,2 @@
+const pool=require('./db');
+(async()=>{try{const r=await pool.query(`SELECT c.code,c.name,c.is_active,COUNT(u.id)::integer AS approved_admins FROM colleges c LEFT JOIN users u ON u.college_id=c.id AND u.role='admin' AND u.status='approved' GROUP BY c.id ORDER BY c.name`);console.table(r.rows);console.log('Search requires the backend to be reachable. Existing colleges with no approved admin show Registration required; use setup-college.js after verifying the head.');}finally{await pool.end();}})().catch(e=>{console.error(e.message);process.exitCode=1;});

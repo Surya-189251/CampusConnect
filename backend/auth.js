@@ -125,7 +125,7 @@ if (
     if (
       typeof loginId !== "string" ||
       !loginId.trim() ||
-      loginId.trim().length > 50 ||
+      loginId.trim().length > (role === "admin" ? 254 : 50) ||
       typeof password !== "string" ||
       !password ||
       Buffer.byteLength(password, "utf8") > 72 ||
@@ -143,10 +143,10 @@ if (
      c.name AS college_name
    FROM users u
    JOIN colleges c ON c.id = u.college_id
-   WHERE LOWER(u.login_id) = LOWER($1)
-     AND c.code = $2
-     AND c.is_active = TRUE`,
-  [loginId.trim(), collegeCode.trim().toUpperCase()]
+   WHERE (LOWER(u.login_id) = LOWER($1) OR (u.role='admin' AND LOWER(u.email)=LOWER($1)))
+     AND u.role=$3 AND c.code = $2
+     AND c.is_active = TRUE ORDER BY (LOWER(u.login_id)=LOWER($1)) DESC LIMIT 1`,
+  [loginId.trim(), collegeCode.trim().toUpperCase(), role]
 );
 
     const user = result.rows[0];

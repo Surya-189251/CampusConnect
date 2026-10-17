@@ -1,3 +1,4 @@
+import {API_BASE} from './api-config';
 import { useState } from 'react';
 export default function ChangePassword({token,onComplete,requiredChange=true,onCancel}) {
   const [currentPassword,setCurrent]=useState(''),[newPassword,setNew]=useState(''),[confirm,setConfirm]=useState('');
@@ -7,7 +8,7 @@ export default function ChangePassword({token,onComplete,requiredChange=true,onC
     if(newPassword!==confirm){setError('New passwords do not match.');return;}
     setBusy(true);
     try {
-      const response=await fetch('http://localhost:5000/api/auth/change-password',{method:'POST',headers:{Authorization:`Bearer ${token}`,'Content-Type':'application/json'},body:JSON.stringify({currentPassword,newPassword})});
+      const response=await fetch(`${API_BASE}/auth/change-password`,{method:'POST',headers:{Authorization:`Bearer ${token}`,'Content-Type':'application/json'},body:JSON.stringify({currentPassword,newPassword})});
       const data=await response.json();if(!response.ok)throw new Error(data.message);
       onComplete();
     } catch(err){setError(err.message || 'Could not update password.');}finally{setBusy(false);}
